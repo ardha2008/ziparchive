@@ -1,2 +1,8 @@
 # ziparchive
-ZIP Archive PHP
+ZIP Archive using PHP
+
+
+EXAMPLES :
+
+see. examples.php
+
